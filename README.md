@@ -6,7 +6,7 @@
 
 ---
 
-https://github.com/zebrazjx/torn-net/releases/download/v1.0.0/bird.mov
+<video src="https://github.com/zebrazjx/torn-net/releases/download/v1.0.0/bird.mov" controls width="100%"></video>
 
 ---
 
