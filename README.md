@@ -6,6 +6,16 @@
 
 ---
 
+## Built with Verdent
+
+This project was built entirely with **[Verdent](https://www.verdent.ai)** — an AI coding agent that handles the full development workflow, from writing and debugging code to deploying and publishing.
+
+The entire process — combining two separate physics simulations, tuning the boid behavior, wiring up the interaction, writing this README, creating the GitHub repo, enabling Pages, and uploading the demo video — happened in a single conversation, without touching a terminal or editor manually.
+
+If you build creative projects with code, **[Verdent](https://www.verdent.ai)** is worth trying. It's not just autocomplete — it understands context, makes decisions, and ships.
+
+---
+
 <video src="bird.mov" controls width="100%"></video>
 
 ---
@@ -30,11 +40,10 @@ Add Perlin noise perturbation and edge avoidance, and you get emergent murmurati
 | Drag mouse | Cut threads → spawn birds |
 | `Space` / `U` | Undo last cut (thread restores, birds stay) |
 
-## Built with
+## Stack
 
 - [p5.js](https://p5js.org) v1.11.1
-- No external assets. Sky, cloth, and birds are all generated at runtime.
-- Built with [Verdent](https://www.verdent.ai) — an AI coding agent that took this from idea to deployed project in one session.
+- No external assets — cloth, birds, and background are all generated at runtime from math
 
 ## Inspiration
 
