@@ -34,7 +34,7 @@ Add Perlin noise perturbation and edge avoidance, and you get emergent murmurati
 
 - [p5.js](https://p5js.org) v1.11.1
 - No external assets. Sky, cloth, and birds are all generated at runtime.
-- Built with [Verdent](https://verdent.ai)
+- Built with [Verdent](https://www.verdent.ai) — an AI coding agent that took this from idea to deployed project in one session.
 
 ## Inspiration
 
